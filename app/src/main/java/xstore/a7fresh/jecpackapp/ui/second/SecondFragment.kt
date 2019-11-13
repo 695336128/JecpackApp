@@ -11,7 +11,6 @@ import androidx.lifecycle.Observer
 import xstore.a7fresh.jecpackapp.R
 import xstore.a7fresh.jecpackapp.databinding.MainFragmentBinding
 import xstore.a7fresh.jecpackapp.databinding.SecondFragmentBinding
-import xstore.a7fresh.jecpackapp.ui.main.MainViewModel
 
 
 class SecondFragment : Fragment() {
